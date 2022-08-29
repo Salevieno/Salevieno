@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Salevieno
+- 👀 I’m interested in game development and fun apps (in the long term) but
+- 🌱 I’m currently learning to make websites and
+- 💞️ I’m looking to collaborate on ... github, what is this? Not sure what to write here, still
+- 📫 You can reach me by email: salvio_almeida@hotmail.com ... (also 5 is my fav number so glad this turned out five lines long)
